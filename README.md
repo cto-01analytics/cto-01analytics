@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Lakshman Parameswaran
+- 👨‍💻 I'm a career Software Professional with over 25 years of expertise in Software development, management, and architecture.
+- 🏫 I have a Bachelor's in Computer Science from RVCE, Bangalore, India and Masters in Management Information Systems from Harvard Extension School.
+- 🏢 I am the CTO of Zero One Analytics, Inc.
+- 👀 My passion is to be a Technologist for life.
+- 🌱 I'm a eternal learner and wish to teach technology stack to up and coming technologists.
+- 🌐 https://www.linkedin.com/in/lakshman-parameswaran/
